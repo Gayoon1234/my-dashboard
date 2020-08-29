@@ -12,7 +12,7 @@
 
 <body>
 
-  <p>Hello, world!</p>
+  <p>[Hello, world!]('./Page2.md')</p>
 
   <script src="js/script.js"></script>
 </body>
